@@ -4,20 +4,6 @@ Ola, graciñas por ler isto.
 Son Sunnyy, persoa que fixo este mod. De momento non teño muito feito, quizais logo esquézaseme
 actualizar o README. 
 
-# POR TRADUCIR
-
--Items
--UI (Probablemente o máis complicado)
--Fortunas
--Trinkets e Cartas
--Desafíos
-
-# TRADUCIDO
-
--Maldicións
-
-Eventualmente irei cambiando e modificando os Obxectivos e este README, é a primeira vez que fago un
-
 ==========================================
 # Árbore de Directorios
 ==========================================
@@ -54,3 +40,17 @@ Traducidos stages, engadidos repentance(a ver si van).
 
 Tiven que cambiar tódolos archivos porque equivoqueime de directorio ao extaer T-T
 Curses traducido, traducido minibosses, traducido stages excepto Backwards
+
+==============
+# POR TRADUCIR
+==============
+
+- Achievements
+- Boss -> Bossportraits non sei que modifica, son gráficos: están en ./resources/ui
+- Challenges -> Quizais sexa gráfico tamén, non o sei
+- Fortunes? e Rules? non sei como funciona coa nova extracción
+- Items :thousand_yard:
+- Players -> igual que challenges
+- pocketitems
+
+- Descubrir que editar en UI, cando todo o texto esté rematado
