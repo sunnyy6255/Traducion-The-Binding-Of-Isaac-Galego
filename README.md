@@ -48,3 +48,9 @@ Engadido txt de rules e xmls de stages, bossportraits, minibosses, players.
 O txt é polo texto que sae ao usar a carta de reglas entendo e os outros son para cando aparecen textos ao
 enfrentarte un miniboss estilo: Blue baby vs Sloth ou cando entras a un piso: Basement I
 
+22/10/26
+Traducidos minibosses.xml :D
+Traducidos stages, engadidos repentance(a ver si van).
+
+Tiven que cambiar tódolos archivos porque equivoqueime de directorio ao extaer T-T
+Curses traducido, traducido minibosses, traducido stages excepto Backwards

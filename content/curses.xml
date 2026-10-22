@@ -5,5 +5,6 @@
 	<curse id="4" name="Maldición do Descoñecido" />
 	<curse id="5" name="Maldición do Maldito" />
 	<curse id="6" name="Maldición do Enredo" />
-	<curse id="7" name="Maldición do Cego" />
+	<curse id="7" name="Maldición da Cegueira" />
+	<curse id="8" name="Maldición do Xigante" />
 </curses>
