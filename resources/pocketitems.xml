@@ -32,6 +32,7 @@
 	<card type="suit" pickup="2" achievement="327" description="#ACE_OF_SPADES_DESCRIPTION" id="29" name="#ACE_OF_SPADES_NAME" announcer="447" announcerdelay="90" mimiccharge="6" />
 	<card type="suit" pickup="2" achievement="329" description="#ACE_OF_HEARTS_DESCRIPTION" id="30" name="#ACE_OF_HEARTS_NAME" announcer="450" announcerdelay="90" mimiccharge="6" />
 	<card type="suit" pickup="2" description="#JOKER_DESCRIPTION" id="31" name="#JOKER_NAME" announcer="347" announcerdelay="60" mimiccharge="2" />
+
 	<rune type="rune" pickup="3" achievement="89" description="#HAGALAZ_DESCRIPTION" id="32" name="#HAGALAZ_NAME" announcer="341" mimiccharge="2" />
 	<rune type="rune" pickup="3" achievement="90" description="#JERA_DESCRIPTION" id="33" name="#JERA_NAME" announcer="346" mimiccharge="12" />
 	<rune type="rune" pickup="3" achievement="91" description="#EHWAZ_DESCRIPTION" id="34" name="#EHWAZ_NAME" announcer="338" mimiccharge="4" />
@@ -42,6 +43,7 @@
 	<rune type="rune" pickup="4" achievement="96" description="#ALGIZ_DESCRIPTION" id="39" name="#ALGIZ_NAME" announcer="325" mimiccharge="4" />
 	<rune type="rune" pickup="4" achievement="233" description="#BLANK_RUNE_DESCRIPTION" id="40" name="#BLANK_RUNE_NAME" mimiccharge="3" />
 	<rune type="rune" pickup="7" achievement="309" description="#BLACK_RUNE_DESCRIPTION" id="41" name="#BLACK_RUNE_NAME" announcer="457" announcerdelay="150" mimiccharge="4" />
+	
 	<card type="special" pickup="8" achievement="97" description="#CHAOS_CARD_DESCRIPTION" id="42" name="#CHAOS_CARD_NAME" announcer="334" mimiccharge="6" />
 	<card type="special" pickup="10" achievement="98" description="#CREDIT_CARD_DESCRIPTION" id="43" name="#CREDIT_CARD_NAME" announcer="335" mimiccharge="6" />
 	<card type="special" pickup="2" achievement="99" description="#RULES_CARD_DESCRIPTION" id="44" name="#RULES_CARD_NAME" announcer="361" announcerdelay="30" mimiccharge="1" />
