@@ -1,27 +1,28 @@
 <pocketitems>
 	<card id="0" name="NULL" />
-	<card type="tarot" pickup="1" description="#THE_FOOL_DESCRIPTION" id="1" name="#THE_FOOL_NAME" announcer="375" announcerdelay="60" mimiccharge="2" />
-	<card type="tarot" pickup="1" description="#THE_MAGICIAN_DESCRIPTION" id="2" name="#THE_MAGICIAN_NAME" announcer="381" mimiccharge="2" />
-	<card type="tarot" pickup="1" description="#THE_HIGH_PRIESTESS_DESCRIPTION" id="3" name="#THE_HIGH_PRIESTESS_NAME" announcer="379" announcerdelay="110" mimiccharge="2" />
-	<card type="tarot" pickup="1" description="#THE_EMPRESS_DESCRIPTION" id="4" name="#THE_EMPRESS_NAME" announcer="374" announcerdelay="70" mimiccharge="3" />
-	<card type="tarot" pickup="1" description="#THE_EMPEROR_DESCRIPTION" id="5" name="#THE_EMPEROR_NAME" greedmode="false" announcer="373" announcerdelay="70" mimiccharge="4" />
-	<card type="tarot" pickup="1" description="#THE_HIEROPHANT_DESCRIPTION" id="6" name="#THE_HIEROPHANT_NAME" announcer="378" announcerdelay="70" mimiccharge="12" />
-	<card type="tarot" pickup="1" description="#THE_LOVERS_DESCRIPTION" id="7" name="#THE_LOVERS_NAME" announcer="380" announcerdelay="70" mimiccharge="6" />
-	<card type="tarot" pickup="1" description="#THE_CHARIOT_DESCRIPTION" id="8" name="#THE_CHARIOT_NAME" announcer="371" mimiccharge="3" />
-	<card type="tarot" pickup="1" description="#JUSTICE_DESCRIPTION" id="9" name="#JUSTICE_NAME" announcer="349" mimiccharge="6" />
-	<card type="tarot" pickup="1" description="#THE_HERMIT_DESCRIPTION" id="10" name="#THE_HERMIT_NAME" greedmode="false" announcer="377" announcerdelay="60" mimiccharge="2" />
-	<card type="tarot" pickup="1" description="#WHEEL_OF_FORTUNE_DESCRIPTION" id="11" name="#WHEEL_OF_FORTUNE_NAME" announcer="391" announcerdelay="60" mimiccharge="4" />
-	<card type="tarot" pickup="1" description="#STRENGTH_DESCRIPTION" id="12" name="#STRENGTH_NAME" announcer="365" mimiccharge="3" />
-	<card type="tarot" pickup="1" description="#THE_HANGED_MAN_DESCRIPTION" id="13" name="#THE_HANGED_MAN_NAME" announcer="376" mimiccharge="3" />
-	<card type="tarot" pickup="1" description="#DEATH_DESCRIPTION" id="14" name="#DEATH_NAME" announcer="337" mimiccharge="3" />
-	<card type="tarot" pickup="1" description="#TEMPERANCE_DESCRIPTION" id="15" name="#TEMPERANCE_NAME" announcer="370" announcerdelay="60" mimiccharge="6" />
-	<card type="tarot" pickup="1" description="#THE_DEVIL_DESCRIPTION" id="16" name="#THE_DEVIL_NAME" announcer="372" announcerdelay="40" mimiccharge="3" />
-	<card type="tarot" pickup="1" description="#THE_TOWER_DESCRIPTION" id="17" name="#THE_TOWER_NAME" announcer="385" announcerdelay="20" mimiccharge="3" />
-	<card type="tarot" pickup="1" description="#THE_STARS_DESCRIPTION" id="18" name="#THE_STARS_NAME" announcer="383" announcerdelay="60" mimiccharge="2" />
-	<card type="tarot" pickup="1" description="#THE_MOON_DESCRIPTION" id="19" name="#THE_MOON_NAME" greedmode="false" announcer="382" announcerdelay="60" mimiccharge="2" />
-	<card type="tarot" pickup="1" description="#THE_SUN_DESCRIPTION" id="20" name="#THE_SUN_NAME" announcer="384" announcerdelay="10" mimiccharge="12" />
-	<card type="tarot" pickup="1" description="#JUDGEMENT_DESCRIPTION" id="21" name="#JUDGEMENT_NAME" announcer="348" mimiccharge="6" />
-	<card type="tarot" pickup="1" description="#THE_WORLD_DESCRIPTION" id="22" name="#THE_WORLD_NAME" greedmode="false" announcer="386" mimiccharge="3" />
+	<card type="tarot" pickup="1" description="Onde comeza a túa viaxe" id="1" name="O Tolo" announcer="375" announcerdelay="60" mimiccharge="2" />
+	<card type="tarot" pickup="1" description="Que nunca falles no teu obxectivo" id="2" name="O Mago" announcer="381" mimiccharge="2" />
+	<card type="tarot" pickup="1" description="Mamá estate a vixiar" id="3" name="A Papisa" announcer="379" announcerdelay="110" mimiccharge="2" />
+	<card type="tarot" pickup="1" description="Que a túa ira che traia poder" id="4" name="A Emperatriz" announcer="374" announcerdelay="70" mimiccharge="3" />
+	<card type="tarot" pickup="1" description="Desafíame!" id="5" name="O Emperador" greedmode="false" announcer="373" announcerdelay="70" mimiccharge="4" />
+	<card type="tarot" pickup="1" description="Dúas pregarias polos perdidos" id="6" name="O Papa" announcer="378" announcerdelay="70" mimiccharge="12" />
+	<card type="tarot" pickup="1" description="Que prosperes e teñas boa saúde" id="7" name="Os Namorados" announcer="380" announcerdelay="70" mimiccharge="6" />
+	<card type="tarot" pickup="1" description="Que nada se poña diante de ti" id="8" name="O Carro" announcer="371" mimiccharge="3" />
+	<card type="tarot" pickup="1" description="Que o teu futuro sexa equilibrado" id="9" name="A Xustiza" announcer="349" mimiccharge="6" />
+	<card type="tarot" pickup="1" description="Que vexas o que a vida ten para ofrecer" id="10" name="O Ermitán" greedmode="false" announcer="377" announcerdelay="60" mimiccharge="2" />
+	<card type="tarot" pickup="1" description="Xira a roda do Destino" id="11" name="A Roda da Fortuna" announcer="391" announcerdelay="60" mimiccharge="4" />
+	<card type="tarot" pickup="1" description="Que o teu poder che traia ira" id="12" name="A Forza" announcer="365" mimiccharge="3" />
+	<card type="tarot" pickup="1" description="Que atopes a iluminación" id="13" name="O Aforcado" announcer="376" mimiccharge="3" />
+	<card type="tarot" pickup="1" description="Arrasa con todo o que se opoña a ti" id="14" name="A Morte" announcer="337" mimiccharge="3" />
+	<card type="tarot" pickup="1" description="Que sexas puro de corazón" id="15" name="A Temperanza" announcer="370" announcerdelay="60" mimiccharge="6" />
+	<card type="tarot" pickup="1" description="Deléitase no poder da túa escuridade" id="16" name="O Demo" announcer="372" announcerdelay="40" mimiccharge="3" />
+	<card type="tarot" pickup="1" description="A destrución trae creación" id="17" name="A Torre" announcer="385" announcerdelay="20" mimiccharge="3" />
+	<card type="tarot" pickup="1" description="Que atopes o que anhelas" id="18" name="As Estrelas" announcer="383" announcerdelay="60" mimiccharge="2" />
+	<card type="tarot" pickup="1" description="Que atopes todo o que perdeches" id="19" name="A Lúa" greedmode="false" announcer="382" announcerdelay="60" mimiccharge="2" />
+	<card type="tarot" pickup="1" description="Que a luz che cure e ilumine" id="20" name="O Sol" announcer="384" announcerdelay="10" mimiccharge="12" />
+	<card type="tarot" pickup="1" description="Xulga, para que non sexas xulgado" id="21" name="O Xuízo" announcer="348" mimiccharge="6" />
+	<card type="tarot" pickup="1" description="Abre os ollos e ve" id="22" name="O Mundo" greedmode="false" announcer="386" mimiccharge="3" />
+
 	<card type="suit" pickup="2" description="#TWO_OF_CLUBS_DESCRIPTION" id="23" name="#TWO_OF_CLUBS_NAME" announcer="387" mimiccharge="12" />
 	<card type="suit" pickup="2" description="#TWO_OF_DIAMONDS_DESCRIPTION" id="24" name="#TWO_OF_DIAMONDS_NAME" announcer="388" mimiccharge="12" />
 	<card type="suit" pickup="2" description="#TWO_OF_SPADES_DESCRIPTION" id="25" name="#TWO_OF_SPADES_NAME" announcer="390" mimiccharge="12" />
@@ -58,28 +59,28 @@
 	<rune type="rune"    pickup="13" announcer="736" description="#RUNE_SHARD_DESCRIPTION" id="55" name="#RUNE_SHARD_NAME" mimiccharge="1" />
 	
 	<!-- Reverse tarot cards -->
-	<card type="tarot_reverse" pickup="14" achievement="524" announcer="512" announcerdelay="60" description="#THE_FOOL_R_DESCRIPTION" id="56" name="#THE_FOOL_R_NAME" mimiccharge="12" />
-	<card type="tarot_reverse" pickup="14" achievement="525" announcer="513" announcerdelay="0" description="#THE_MAGICIAN_R_DESCRIPTION" id="57" name="#THE_MAGICIAN_R_NAME" mimiccharge="4" />
-	<card type="tarot_reverse" pickup="14" achievement="526" announcer="514" announcerdelay="110" description="#THE_HIGH_PRIESTESS_R_DESCRIPTION" id="58" name="#THE_HIGH_PRIESTESS_R_NAME" mimiccharge="4" />
-	<card type="tarot_reverse" pickup="14" achievement="527" announcer="515" announcerdelay="70" description="#THE_EMPRESS_R_DESCRIPTION" id="59" name="#THE_EMPRESS_R_NAME" mimiccharge="4" />
-	<card type="tarot_reverse" pickup="14" achievement="528" announcer="516" announcerdelay="30" description="#THE_EMPEROR_R_DESCRIPTION" id="60" name="#THE_EMPEROR_R_NAME" greedmode="false" mimiccharge="2" />
-	<card type="tarot_reverse" pickup="14" achievement="529" announcer="517" announcerdelay="70" description="#THE_HIEROPHANT_R_DESCRIPTION" id="61" name="#THE_HIEROPHANT_R_NAME" mimiccharge="12" />
-	<card type="tarot_reverse" pickup="14" achievement="530" announcer="518" announcerdelay="60" description="#THE_LOVERS_R_DESCRIPTION" id="62" name="#THE_LOVERS_R_NAME" mimiccharge="4" />
-	<card type="tarot_reverse" pickup="14" achievement="531" announcer="519" announcerdelay="0" description="#THE_CHARIOT_R_DESCRIPTION" id="63" name="#THE_CHARIOT_R_NAME" mimiccharge="2" />
-	<card type="tarot_reverse" pickup="14" achievement="532" announcer="520" announcerdelay="0" description="#JUSTICE_R_DESCRIPTION" id="64" name="#JUSTICE_R_NAME" mimiccharge="12" />
-	<card type="tarot_reverse" pickup="14" achievement="533" announcer="521" announcerdelay="60" description="#THE_HERMIT_R_DESCRIPTION" id="65" name="#THE_HERMIT_R_NAME" mimiccharge="2" />
-	<card type="tarot_reverse" pickup="14" achievement="534" announcer="522" announcerdelay="60" description="#WHEEL_OF_FORTUNE_R_DESCRIPTION" id="66" name="#WHEEL_OF_FORTUNE_R_NAME" mimiccharge="4" />
-	<card type="tarot_reverse" pickup="14" achievement="535" announcer="523" announcerdelay="0" description="#STRENGTH_R_DESCRIPTION" id="67" name="#STRENGTH_R_NAME" mimiccharge="3" />
-	<card type="tarot_reverse" pickup="14" achievement="536" announcer="524" announcerdelay="0" description="#THE_HANGED_MAN_R_DESCRIPTION" id="68" name="#THE_HANGED_MAN_R_NAME" mimiccharge="6" />
-	<card type="tarot_reverse" pickup="14" achievement="537" announcer="525" announcerdelay="0" description="#DEATH_R_DESCRIPTION" id="69" name="#DEATH_R_NAME" mimiccharge="4" />
-	<card type="tarot_reverse" pickup="14" achievement="538" announcer="526" announcerdelay="120" description="#TEMPERANCE_R_DESCRIPTION" id="70" name="#TEMPERANCE_R_NAME" mimiccharge="6" />
-	<card type="tarot_reverse" pickup="14" achievement="539" announcer="527" announcerdelay="70" description="#THE_DEVIL_R_DESCRIPTION" id="71" name="#THE_DEVIL_R_NAME" mimiccharge="4" />
-	<card type="tarot_reverse" pickup="14" achievement="540" announcer="528" announcerdelay="110" description="#THE_TOWER_R_DESCRIPTION" id="72" name="#THE_TOWER_R_NAME" mimiccharge="4" />
-	<card type="tarot_reverse" pickup="14" achievement="541" announcer="529" announcerdelay="0" description="#THE_STARS_R_DESCRIPTION" id="73" name="#THE_STARS_R_NAME" mimiccharge="12" />
-	<card type="tarot_reverse" pickup="14" achievement="542" announcer="530" announcerdelay="0" description="#THE_MOON_R_DESCRIPTION" id="74" name="#THE_MOON_R_NAME" greedmode="false" mimiccharge="2" />
-	<card type="tarot_reverse" pickup="14" achievement="542" announcer="531" announcerdelay="0" description="#THE_SUN_R_DESCRIPTION" id="75" name="#THE_SUN_R_NAME" mimiccharge="6" />
-	<card type="tarot_reverse" pickup="14" achievement="543" announcer="532" announcerdelay="30" description="#JUDGEMENT_R_DESCRIPTION" id="76" name="#JUDGEMENT_R_NAME" mimiccharge="12" />
-	<card type="tarot_reverse" pickup="14" achievement="544" announcer="533" announcerdelay="30" description="#THE_WORLD_R_DESCRIPTION" id="77" name="#THE_WORLD_R_NAME" mimiccharge="2" />
+	<card type="tarot_reverse" pickup="14" achievement="524" announcer="512" announcerdelay="60" description="Deixa ir e sigue adiante" id="56" name="O Tolo?" mimiccharge="12" />
+	<card type="tarot_reverse" pickup="14" achievement="525" announcer="513" announcerdelay="0" description="Que non che aconteza ningún mal" id="57" name="O Mago?" mimiccharge="4" />
+	<card type="tarot_reverse" pickup="14" achievement="526" announcer="514" announcerdelay="110" description="Corre" id="58" name="A Papisa?" mimiccharge="4" />
+	<card type="tarot_reverse" pickup="14" achievement="527" announcer="515" announcerdelay="70" description="Que o teu amor traia protección" id="59" name="A Emperatriz?" mimiccharge="4" />
+	<card type="tarot_reverse" pickup="14" achievement="528" announcer="516" announcerdelay="30" description="Que atopes un oponente digno" id="60" name="O Emperador?" greedmode="false" mimiccharge="2" />
+	<card type="tarot_reverse" pickup="14" achievement="529" announcer="517" announcerdelay="70" description="Dúas pregarias para os olvidados" id="61" name="O Papa?" mimiccharge="12" />
+	<card type="tarot_reverse" pickup="14" achievement="530" announcer="518" announcerdelay="60" description="Que o teu corazón crebe en anacos" id="62" name="Os Namorados?" mimiccharge="4" />
+	<card type="tarot_reverse" pickup="14" achievement="531" announcer="519" announcerdelay="0" description="Que nada che pase por diante" id="63" name="O Carro?" mimiccharge="2" />
+	<card type="tarot_reverse" pickup="14" achievement="532" announcer="520" announcerdelay="0" description="Que os teus pecados volvan para atormentarte" id="64" name="A Xustiza?" mimiccharge="12" />
+	<card type="tarot_reverse" pickup="14" achievement="533" announcer="521" announcerdelay="60" description="Que poidas ver o valor de tódalas cousas na vida" id="65" name="O Ermitán?" mimiccharge="2" />
+	<card type="tarot_reverse" pickup="14" achievement="534" announcer="522" announcerdelay="60" description="Tira o dado do fado" id="66" name="A Roda da Fortuna?" mimiccharge="4" />
+	<card type="tarot_reverse" pickup="14" achievement="535" announcer="523" announcerdelay="0" description="Que rompas a súa determinación" id="67" name="A Forza?" mimiccharge="3" />
+	<card type="tarot_reverse" pickup="14" achievement="536" announcer="524" announcerdelay="0" description="Que a túa cobiza non teña límites" id="68" name="O Aforcado?" mimiccharge="6" />
+	<card type="tarot_reverse" pickup="14" achievement="537" announcer="525" announcerdelay="0" description="Que a vida brote dos caídos" id="69" name="A Morte?" mimiccharge="4" />
+	<card type="tarot_reverse" pickup="14" achievement="538" announcer="526" announcerdelay="120" description="Que a túa fame sexa saciada" id="70" name="A Temperanza?" mimiccharge="6" />
+	<card type="tarot_reverse" pickup="14" achievement="539" announcer="527" announcerdelay="70" description="Báñate na lúz da túa compaixón" id="71" name="O Demo?" mimiccharge="4" />
+	<card type="tarot_reverse" pickup="14" achievement="540" announcer="528" announcerdelay="110" description="A Creación trae destrución" id="72" name="A Torre?" mimiccharge="4" />
+	<card type="tarot_reverse" pickup="14" achievement="541" announcer="529" announcerdelay="0" description="Que a túa pérda traia boa boaventura" id="73" name="As Estrelas?" mimiccharge="12" />
+	<card type="tarot_reverse" pickup="14" achievement="542" announcer="530" announcerdelay="0" description="Que lembres recordos esquecidos" id="74" name="A Lúa?" greedmode="false" mimiccharge="2" />
+	<card type="tarot_reverse" pickup="14" achievement="542" announcer="531" announcerdelay="0" description="Que a escuridade devore todo ao teu redor" id="75" name="O Sol?" mimiccharge="6" />
+	<card type="tarot_reverse" pickup="14" achievement="543" announcer="532" announcerdelay="30" description="Que redimas aos que se atopan defectuosos" id="76" name="O Xuízo?" mimiccharge="12" />
+	<card type="tarot_reverse" pickup="14" achievement="544" announcer="533" announcerdelay="30" description="Da un paso ao abismo" id="77" name="O Mundo?" mimiccharge="2" />
 	
 	<!-- Misc cards -->
 	<card type="object"  announcer="740" announcerdelay="60" pickup="15" achievement="415" description="#CRACKED_KEY_DESCRIPTION" name="#CRACKED_KEY_NAME" greedmode="false" id="78" mimiccharge="4" />

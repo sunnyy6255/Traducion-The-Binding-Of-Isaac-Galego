@@ -39,7 +39,11 @@ Traducidos minibosses.xml :D
 Traducidos stages, engadidos repentance(a ver si van).
 
 Tiven que cambiar tódolos archivos porque equivoqueime de directorio ao extaer T-T
-Curses traducido, traducido minibosses, traducido stages excepto Backwards
+Curses traducido, traducido minibosses, traducido stages
+
+23/10/26
+Traducidos nomes do tarot normal
+Traducidos nomes e descricións de tarot normal e inverso
 
 ==============
 # POR TRADUCIR
