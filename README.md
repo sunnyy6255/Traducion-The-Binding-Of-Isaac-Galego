@@ -45,6 +45,10 @@ Curses traducido, traducido minibosses, traducido stages
 Traducidos nomes do tarot normal
 Traducidos nomes e descricións de tarot normal e inverso
 quedan => baralla francesa, runas, cartas misceláneas, almas e pilulas
+francesa, runas, cartas misceláneas e runas acabadas
+
+25/10/26
+Traducidos players quedan pilulas
 
 ==============
 # POR TRADUCIR

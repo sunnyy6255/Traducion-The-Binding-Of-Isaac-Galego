@@ -23,42 +23,42 @@
 	<card type="tarot" pickup="1" description="Xulga, para que non sexas xulgado" id="21" name="O Xuízo" announcer="348" mimiccharge="6" />
 	<card type="tarot" pickup="1" description="Abre os ollos e ve" id="22" name="O Mundo" greedmode="false" announcer="386" mimiccharge="3" />
 
-	<card type="suit" pickup="2" description="#TWO_OF_CLUBS_DESCRIPTION" id="23" name="#TWO_OF_CLUBS_NAME" announcer="387" mimiccharge="12" />
-	<card type="suit" pickup="2" description="#TWO_OF_DIAMONDS_DESCRIPTION" id="24" name="#TWO_OF_DIAMONDS_NAME" announcer="388" mimiccharge="12" />
-	<card type="suit" pickup="2" description="#TWO_OF_SPADES_DESCRIPTION" id="25" name="#TWO_OF_SPADES_NAME" announcer="390" mimiccharge="12" />
-	<card type="suit" pickup="2" description="#TWO_OF_HEARTS_DESCRIPTION" id="26" name="#TWO_OF_HEARTS_NAME" announcer="389" mimiccharge="12" />
-	<card type="suit" pickup="2" achievement="322" description="#ACE_OF_CLUBS_DESCRIPTION" id="27" name="#ACE_OF_CLUBS_NAME" announcer="456" announcerdelay="90" mimiccharge="6" />
-	<card type="suit" pickup="2" achievement="326" description="#ACE_OF_DIAMONDS_DESCRIPTION" id="28" name="#ACE_OF_DIAMONDS_NAME" announcer="455" announcerdelay="90" mimiccharge="6" />
-	<card type="suit" pickup="2" achievement="327" description="#ACE_OF_SPADES_DESCRIPTION" id="29" name="#ACE_OF_SPADES_NAME" announcer="447" announcerdelay="90" mimiccharge="6" />
-	<card type="suit" pickup="2" achievement="329" description="#ACE_OF_HEARTS_DESCRIPTION" id="30" name="#ACE_OF_HEARTS_NAME" announcer="450" announcerdelay="90" mimiccharge="6" />
-	<card type="suit" pickup="2" description="#JOKER_DESCRIPTION" id="31" name="#JOKER_NAME" announcer="347" announcerdelay="60" mimiccharge="2" />
+	<card type="suit" pickup="2" description="Multiplicador de obxectos" id="23" name="Dous de trevos" announcer="387" mimiccharge="12" />
+	<card type="suit" pickup="2" description="Multiplicador de obxectos" id="24" name="Dous de diamantes" announcer="388" mimiccharge="12" />
+	<card type="suit" pickup="2" description="Multiplicador de obxectos" id="25" name="Dous de picas" announcer="390" mimiccharge="12" />
+	<card type="suit" pickup="2" description="Multiplicador de obxectos" id="26" name="Dous de corazóns" announcer="389" mimiccharge="12" />
+	<card type="suit" pickup="2" achievement="322" description="Transfoma todo" id="27" name="Ás de trevos" announcer="456" announcerdelay="90" mimiccharge="6" />
+	<card type="suit" pickup="2" achievement="326" description="Transforma todo" id="28" name="Ás de diamantes" announcer="455" announcerdelay="90" mimiccharge="6" />
+	<card type="suit" pickup="2" achievement="327" description="Transforma todo" id="29" name="Ás de picas" announcer="447" announcerdelay="90" mimiccharge="6" />
+	<card type="suit" pickup="2" achievement="329" description="Transforma todo" id="30" name="Ás de corazóns" announcer="450" announcerdelay="90" mimiccharge="6" />
+	<card type="suit" pickup="2" description="#JOKER_DESCRIPTION" id="31" name="Joker" announcer="347" announcerdelay="60" mimiccharge="2" />
 
-	<rune type="rune" pickup="3" achievement="89" description="#HAGALAZ_DESCRIPTION" id="32" name="#HAGALAZ_NAME" announcer="341" mimiccharge="2" />
-	<rune type="rune" pickup="3" achievement="90" description="#JERA_DESCRIPTION" id="33" name="#JERA_NAME" announcer="346" mimiccharge="12" />
-	<rune type="rune" pickup="3" achievement="91" description="#EHWAZ_DESCRIPTION" id="34" name="#EHWAZ_NAME" announcer="338" mimiccharge="4" />
-	<rune type="rune" pickup="3" achievement="92" description="#DAGAZ_DESCRIPTION" id="35" name="#DAGAZ_NAME" announcer="336" mimiccharge="6" />
-	<rune type="rune" pickup="4" achievement="93" description="#ANSUZ_DESCRIPTION" id="36" name="#ANSUZ_NAME" announcer="327" mimiccharge="2" />
-	<rune type="rune" pickup="4" achievement="94" description="#PERTHRO_DESCRIPTION" id="37" name="#PERTHRO_NAME" announcer="354" mimiccharge="4" />
-	<rune type="rune" pickup="4" achievement="95" description="#BERKANO_DESCRIPTION" id="38" name="#BERKANO_NAME" announcer="331" mimiccharge="4" />
-	<rune type="rune" pickup="4" achievement="96" description="#ALGIZ_DESCRIPTION" id="39" name="#ALGIZ_NAME" announcer="325" mimiccharge="4" />
-	<rune type="rune" pickup="4" achievement="233" description="#BLANK_RUNE_DESCRIPTION" id="40" name="#BLANK_RUNE_NAME" mimiccharge="3" />
-	<rune type="rune" pickup="7" achievement="309" description="#BLACK_RUNE_DESCRIPTION" id="41" name="#BLACK_RUNE_NAME" announcer="457" announcerdelay="150" mimiccharge="4" />
+	<rune type="rune" pickup="3" achievement="89" description="Destrución" id="32" name="#HAGALAZ_NAME" announcer="341" mimiccharge="2" />
+	<rune type="rune" pickup="3" achievement="90" description="Abundancia" id="33" name="#JERA_NAME" announcer="346" mimiccharge="12" />
+	<rune type="rune" pickup="3" achievement="91" description="Pasaxe" id="34" name="#EHWAZ_NAME" announcer="338" mimiccharge="4" />
+	<rune type="rune" pickup="3" achievement="92" description="Puridade" id="35" name="#DAGAZ_NAME" announcer="336" mimiccharge="6" />
+	<rune type="rune" pickup="4" achievement="93" description="Visión" id="36" name="#ANSUZ_NAME" announcer="327" mimiccharge="2" />
+	<rune type="rune" pickup="4" achievement="94" description="Cambio" id="37" name="#PERTHRO_NAME" announcer="354" mimiccharge="4" />
+	<rune type="rune" pickup="4" achievement="95" description="Compañía" id="38" name="#BERKANO_NAME" announcer="331" mimiccharge="4" />
+	<rune type="rune" pickup="4" achievement="96" description="Resistencia" id="39" name="#ALGIZ_NAME" announcer="325" mimiccharge="4" />
+	<rune type="rune" pickup="4" achievement="233" description="#BLANK_RUNE_DESCRIPTION" id="40" name="Runa en blanco" mimiccharge="3" />
+	<rune type="rune" pickup="7" achievement="309" description="Baleiro" id="41" name="Runa negra" announcer="457" announcerdelay="150" mimiccharge="4" />
 	
-	<card type="special" pickup="8" achievement="97" description="#CHAOS_CARD_DESCRIPTION" id="42" name="#CHAOS_CARD_NAME" announcer="334" mimiccharge="6" />
-	<card type="special" pickup="10" achievement="98" description="#CREDIT_CARD_DESCRIPTION" id="43" name="#CREDIT_CARD_NAME" announcer="335" mimiccharge="6" />
-	<card type="special" pickup="2" achievement="99" description="#RULES_CARD_DESCRIPTION" id="44" name="#RULES_CARD_NAME" announcer="361" announcerdelay="30" mimiccharge="1" />
-	<card type="special" pickup="9" achievement="100" description="#A_CARD_AGAINST_HUMANITY_DESCRIPTION" id="45" name="#A_CARD_AGAINST_HUMANITY_NAME" announcer="333" announcerdelay="60" mimiccharge="6" />
-	<card type="special" pickup="2" achievement="120" description="#SUICIDE_KING_DESCRIPTION" id="46" name="#SUICIDE_KING_NAME" announcer="366" announcerdelay="110" mimiccharge="1" />
-	<card type="special" pickup="12" achievement="225" description="#GET_OUT_OF_JAIL_FREE_CARD_DESCRIPTION" id="47" name="#GET_OUT_OF_JAIL_FREE_CARD_NAME" announcer="404" announcerdelay="30" mimiccharge="2" />
-	<card type="special" pickup="2" description="#Q_CARD_DESCRIPTION" id="48" name="#Q_CARD_NAME" announcer="408" announcerdelay="15" mimiccharge="1" />
-	<card type="object" pickup="6" description="#DICE_SHARD_DESCRIPTION" id="49" name="#DICE_SHARD_NAME" announcer="400" announcerdelay="3" mimiccharge="4" />
-	<card type="object" pickup="5" description="#EMERGENCY_CONTACT_DESCRIPTION" id="50" name="#EMERGENCY_CONTACT_NAME" announcer="401" announcerdelay="70" mimiccharge="3" />
-	<card type="special" pickup="11" achievement="293" description="#HOLY_CARD_DESCRIPTION" id="51" name="#HOLY_CARD_NAME" announcer="449" mimiccharge="4" />
+	<card type="special" pickup="8" achievement="97" description="#CHAOS_CARD_DESCRIPTION" id="42" name="Carta de Caos" announcer="334" mimiccharge="6" />
+	<card type="special" pickup="10" achievement="98" description="Cóbrame!" id="43" name="Tarxeta de crédito" announcer="335" mimiccharge="6" />
+	<card type="special" pickup="2" achievement="99" description="#RULES_CARD_DESCRIPTION" id="44" name="Tarxeta de Regras" announcer="361" announcerdelay="30" mimiccharge="1" />
+	<card type="special" pickup="9" achievement="100" description="Algo fede..." id="45" name="Cartas contra a humanidade" announcer="333" announcerdelay="60" mimiccharge="6" />
+	<card type="special" pickup="2" achievement="120" description="O verdadeiro final?" id="46" name="Rei suicida" announcer="366" announcerdelay="110" mimiccharge="1" />
+	<card type="special" pickup="12" achievement="225" description="Ábrete Sésamo" id="47" name="Carta de saír da cárcere gratis" announcer="404" announcerdelay="30" mimiccharge="2" />
+	<card type="special" pickup="2" description="Dobre activo" id="48" name="Carta ?" announcer="408" announcerdelay="15" mimiccharge="1" />
+	<card type="object" pickup="6" description="#DICE_SHARD_DESCRIPTION" id="49" name="Fragmento de dado" announcer="400" announcerdelay="3" mimiccharge="4" />
+	<card type="object" pickup="5" description="Axuda dende arriba" id="50" name="Número de emerxencia" announcer="401" announcerdelay="70" mimiccharge="3" />
+	<card type="special" pickup="11" achievement="293" description="Sínteste protexido" id="51" name="Carta santa" announcer="449" mimiccharge="4" />
 	<!-- Booster Pack #1 -->
-	<card type="special" pickup="8"  announcer="735" achievement="361" description="#HUGE_GROWTH_DESCRIPTION" name="#HUGE_GROWTH_NAME" id="52" mimiccharge="3" />
-	<card type="special" pickup="8"  announcer="733" achievement="362" description="#ANCIENT_RECALL_DESCRIPTION" name="#ANCIENT_RECALL_NAME" id="53" mimiccharge="12" />
-	<card type="special" pickup="8"  announcer="734" achievement="363" description="#ERA_WALK_DESCRIPTION" name="#ERA_WALK_NAME" id="54" mimiccharge="3" />
-	<rune type="rune"    pickup="13" announcer="736" description="#RUNE_SHARD_DESCRIPTION" id="55" name="#RUNE_SHARD_NAME" mimiccharge="1" />
+	<card type="special" pickup="8"  announcer="735" achievement="361" description="Se inmenso!" name="Crecemento xigante" id="52" mimiccharge="3" />
+	<card type="special" pickup="8"  announcer="733" achievement="362" description="Roba 3 cartas" name="Recordo antigo" id="53" mimiccharge="12" />
+	<card type="special" pickup="8"  announcer="734" achievement="363" description="Disfruta o momento" name="Camiñar as eras" id="54" mimiccharge="3" />
+	<rune type="rune"    pickup="13" announcer="736" description="Ten un brillo tenue" id="55" name="Fragmento de runa" mimiccharge="1" />
 	
 	<!-- Reverse tarot cards -->
 	<card type="tarot_reverse" pickup="14" achievement="524" announcer="512" announcerdelay="60" description="Deixa ir e sigue adiante" id="56" name="O Tolo?" mimiccharge="12" />
@@ -85,28 +85,28 @@
 	<card type="tarot_reverse" pickup="14" achievement="544" announcer="533" announcerdelay="30" description="Da un paso ao abismo" id="77" name="O Mundo?" mimiccharge="2" />
 	
 	<!-- Misc cards -->
-	<card type="object"  announcer="740" announcerdelay="60" pickup="15" achievement="415" description="#CRACKED_KEY_DESCRIPTION" name="#CRACKED_KEY_NAME" greedmode="false" id="78" mimiccharge="4" />
-	<card type="suit"    announcer="741" announcerdelay="80" pickup="2" achievement="602" description="#QUEEN_OF_HEARTS_DESCRIPTION" id="79" name="#QUEEN_OF_HEARTS_NAME" mimiccharge="12" />
-	<card type="special" announcer="742" announcerdelay="70" pickup="17" achievement="610" description="#WILD_CARD_DESCRIPTION" id="80" name="#WILD_CARD_NAME" mimiccharge="6" />
+	<card type="object"  announcer="740" announcerdelay="60" pickup="15" achievement="415" description="#CRACKED_KEY_DESCRIPTION" name="Chave rota" greedmode="false" id="78" mimiccharge="4" />
+	<card type="suit"    announcer="741" announcerdelay="80" pickup="2" achievement="602" description="#QUEEN_OF_HEARTS_DESCRIPTION" id="79" name="Raíña de corazóns" mimiccharge="12" />
+	<card type="special" announcer="742" announcerdelay="70" pickup="17" achievement="610" description="Outra volta" id="80" name="Comodín" mimiccharge="6" />
 	
 	<!-- Soul stones -->
-	<card type="rune" pickup="18" achievement="618" announcer="743" description="#SOUL_OF_ISAAC_DESCRIPTION" id="81" name="#SOUL_OF_ISAAC_NAME" mimiccharge="4" />
-	<card type="rune" pickup="19" achievement="619" announcer="744" description="#SOUL_OF_MAGDALENE_DESCRIPTION" id="82" name="#SOUL_OF_MAGDALENE_NAME" mimiccharge="3" />
-	<card type="rune" pickup="20" achievement="620" announcer="745" description="#SOUL_OF_CAIN_DESCRIPTION" id="83" name="#SOUL_OF_CAIN_NAME" mimiccharge="6" />
-	<card type="rune" pickup="21" achievement="621" announcer="746" description="#SOUL_OF_JUDAS_DESCRIPTION" id="84" name="#SOUL_OF_JUDAS_NAME" mimiccharge="2" />
-	<card type="rune" pickup="22" achievement="622" announcer="747" announcerdelay="110" description="#SOUL_OF_BLUEBABY_DESCRIPTION" id="85" name="#SOUL_OF_BLUEBABY_NAME" mimiccharge="3" />
-	<card type="rune" pickup="23" achievement="623" announcer="748" description="#SOUL_OF_EVE_DESCRIPTION" id="86" name="#SOUL_OF_EVE_NAME" mimiccharge="4" />
-	<card type="rune" pickup="24" achievement="624" announcer="749" description="#SOUL_OF_SAMSON_DESCRIPTION" id="87" name="#SOUL_OF_SAMSON_NAME" mimiccharge="6" />
-	<card type="rune" pickup="25" achievement="625" announcer="750" description="#SOUL_OF_AZAZEL_DESCRIPTION" id="88" name="#SOUL_OF_AZAZEL_NAME" mimiccharge="6" />
-	<card type="rune" pickup="26" achievement="626" announcer="751" announcerdelay="60" description="#SOUL_OF_LAZARUS_DESCRIPTION" id="89" name="#SOUL_OF_LAZARUS_NAME" mimiccharge="1" />
-	<card type="rune" pickup="27" achievement="627" announcer="752" description="#SOUL_OF_EDEN_DESCRIPTION" id="90" name="#SOUL_OF_EDEN_NAME" mimiccharge="4" />
-	<card type="rune" pickup="28" achievement="628" announcer="753" announcerdelay="60" description="#SOUL_OF_THE_LOST_DESCRIPTION" id="91" name="#SOUL_OF_THE_LOST_NAME" mimiccharge="3" />
-	<card type="rune" pickup="29" achievement="629" announcer="754" announcerdelay="30" description="#SOUL_OF_LILITH_DESCRIPTION" id="92" name="#SOUL_OF_LILITH_NAME" mimiccharge="12" />
-	<card type="rune" pickup="30" achievement="630" announcer="755" description="#SOUL_OF_THE_KEEPER_DESCRIPTION" id="93" name="#SOUL_OF_THE_KEEPER_NAME" mimiccharge="12" />
-	<card type="rune" pickup="31" achievement="631" announcer="756" description="#SOUL_OF_APOLLYON_DESCRIPTION" id="94" name="#SOUL_OF_APOLLYON_NAME" mimiccharge="6" />
-	<card type="rune" pickup="32" achievement="632" announcer="757" description="#SOUL_OF_THE_FORGOTTEN_DESCRIPTION" id="95" name="#SOUL_OF_THE_FORGOTTEN_NAME" mimiccharge="4" />
-	<card type="rune" pickup="33" achievement="633" announcer="758" description="#SOUL_OF_BETHANY_DESCRIPTION" id="96" name="#SOUL_OF_BETHANY_NAME" mimiccharge="6" />
-	<card type="rune" pickup="34" achievement="634" announcer="759" description="#SOUL_OF_JACOB_AND_ESAU_DESCRIPTION" id="97" name="#SOUL_OF_JACOB_AND_ESAU_NAME" mimiccharge="4" />
+	<card type="rune" pickup="18" achievement="618" announcer="743" description="Rerola... ou non" id="81" name="Alma de Isaac" mimiccharge="4" />
+	<card type="rune" pickup="19" achievement="619" announcer="744" description="Dame o teu amor!" id="82" name="Alma de Magdalena" mimiccharge="3" />
+	<card type="rune" pickup="20" achievement="620" announcer="745" description="Abre o imposible" id="83" name="Alma de Caín" mimiccharge="6" />
+	<card type="rune" pickup="21" achievement="621" announcer="746" description="Detrás de ti" id="84" name="Alma de Xudas" mimiccharge="2" />
+	<card type="rune" pickup="22" achievement="622" announcer="747" announcerdelay="110" description="Guerra química" id="85" name="Alma do bebé azul" mimiccharge="3" />
+	<card type="rune" pickup="23" achievement="623" announcer="748" description="A túa bandada de corvos" id="86" name="Alma de Eva" mimiccharge="4" />
+	<card type="rune" pickup="24" achievement="624" announcer="749" description="Mataos a todos" id="87" name="Alma de Sansón" mimiccharge="6" />
+	<card type="rune" pickup="25" achievement="625" announcer="750" description="Furia demoníaca!" id="88" name="Alma de Azazel" mimiccharge="6" />
+	<card type="rune" pickup="26" achievement="626" announcer="751" announcerdelay="60" description="Vida despois da morte" id="89" name="Alma de Lázaro" mimiccharge="1" />
+	<card type="rune" pickup="27" achievement="627" announcer="752" description="Abraza o caos" id="90" name="Alma de Edén" mimiccharge="4" />
+	<card type="rune" pickup="28" achievement="628" announcer="753" announcerdelay="60" description="Deixa o teu corpo atrás" id="91" name="Alma do perdido" mimiccharge="3" />
+	<card type="rune" pickup="29" achievement="629" announcer="754" announcerdelay="30" description="Maternidade" id="92" name="Alma de Lilit" mimiccharge="12" />
+	<card type="rune" pickup="30" achievement="630" announcer="755" description="#SOUL_OF_THE_KEEPER_DESCRIPTION" id="93" name="Alma do tendeiro" mimiccharge="12" />
+	<card type="rune" pickup="31" achievement="631" announcer="756" description="Trae a Calamidade" id="94" name="Alma de Apolión" mimiccharge="6" />
+	<card type="rune" pickup="32" achievement="632" announcer="757" description="Protector esquelético" id="95" name="Alma do esquecido" mimiccharge="4" />
+	<card type="rune" pickup="33" achievement="633" announcer="758" description="Compañeiros do máis alá" id="96" name="Alma de Betania" mimiccharge="6" />
+	<card type="rune" pickup="34" achievement="634" announcer="759" description="Unidos pola sangre" id="97" name="Alma de Xacobo e Esaú" mimiccharge="4" />
 	
 	<!--
 	Pill classes:

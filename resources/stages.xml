@@ -14,7 +14,7 @@
 	<stage id="12" name="Matriz Cicatrizada" path="12.Scarred Womb.xml" playerspot="playerspot_16_scarred_womb.png" bossspot="bossspot_16_scarred_womb.png" music="17" backdrop="12" />
     <stage id="13" name="Matriz Azul" path="13.Blue Womb.xml" playerspot="playerspot_17_blue_womb.png" bossspot="bossspot_17_blue_womb.png" music="18" backdrop="13" />
     <stage id="14" name="Seol" path="14.Sheol.xml" playerspot="playerspot_09_sheol.png" bossspot="bossspot_09_sheol.png" music="11" backdrop="14" />
-    <stage id="15" name="Catedra" path="15.Cathedral.xml" playerspot="playerspot_10_cathedral.png" bossspot="bossspot_10_cathedral.png" music="10" backdrop="15" />
+    <stage id="15" name="Catedral" path="15.Cathedral.xml" playerspot="playerspot_10_cathedral.png" bossspot="bossspot_10_cathedral.png" music="10" backdrop="15" />
     <stage id="16" name="Cuarto Escuro" path="16.Dark Room.xml" playerspot="playerspot_11_darkroom.png" bossspot="bossspot_11_darkroom.png" music="12" backdrop="16" />
     <stage id="17" name="Baúl" path="17.Chest.xml" playerspot="playerspot_12_chest.png" bossspot="bossspot_12_chest.png" music="13" backdrop="17" />
 <!--
