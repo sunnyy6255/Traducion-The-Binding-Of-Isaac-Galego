@@ -47,7 +47,14 @@ francesa, runas, cartas misceláneas e runas acabadas
 25/10/26
 Traducidos players quedan pilulas
 
-27/10/26
+26/10/26
+
+Traducindo Playerforms: quedan Fun guy, Bookworm, Stompy. Non lles atopo tradución directa.
+
+Quero investigar que é o ficheiro de translationsstrings e bossportraits. 
+Achievements cambiará a pestana de achievements ou será gui?
+fortunes e rules seguen funcionando aínda que non estivesen nos novos extraídos: probar a borrar todos menos un e ver que pasa.
+Personaxes traducidos: sempre referencias aos mesmos nomes en players.xml
 
 ==============
 # POR TRADUCIR
