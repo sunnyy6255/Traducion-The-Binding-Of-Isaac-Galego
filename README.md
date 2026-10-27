@@ -13,20 +13,17 @@ e a ti como están ordenados os ficheiros e por que.
 
 /TTBOIG
     /content 
-    {Neste directorio almacenamos ficheiros de configuracións e lóxicos, cando se abre o xogo con mods
-    entendo que ten este cartafol prioridade}
-    /resources
     {Neste outro están os elementos estáticos e gráficos, que non van en /content non sei moi ben por que.
     Entendo que se referencian cousas lóxicas e estas remplázannas}
+    /resources
+    {Neste directorio almacenamos ficheiros de configuracións e lóxicos, cando se abre o xogo con mods
+    entendo que ten este cartafol prioridade}
     metadata.xml {información sobre o mod}
     README.md {Estás a leelo :D}
 
 Agora mesmo en resources non hai nada, porque son tódolos elementos gráficos que non podo cambiar nun IDE,
 teño que usar eu algunha ferramenta de deseño gráfico.
 Pero básicamente é copiar o /resources/gfx e ver cousas de aí
-
-Nadie debería estar lendo isto pero bueno xd
-Quédame a min pra lembrar o que teño que facer
 
 20/10/26
 Maldicións rematadas, 7 liñas lol
@@ -50,6 +47,8 @@ francesa, runas, cartas misceláneas e runas acabadas
 25/10/26
 Traducidos players quedan pilulas
 
+27/10/26
+
 ==============
 # POR TRADUCIR
 ==============
@@ -63,3 +62,34 @@ Traducidos players quedan pilulas
 - pocketitems
 
 - Descubrir que editar en UI, cando todo o texto esté rematado
+
+======================
+# ÍNDICE DE REFERENCIA
+======================
+
+Nomes de personaxes:
+    - Isaac
+    - Magdalena
+    - Caín
+    - Xudas
+    - Bebé Azul
+    - Eva
+    - Sansón
+    - Azazel
+    - Lázaro
+    - Edén
+    - O perdido
+    - Lázaro (Lazarus2 "volto á vida")
+    - Xudas escuro (Judas' shadow)
+    - Lilit
+    - O tendeiro
+    - Apolión
+    - O esquecido
+    - A alma (Alma de Forgotten)
+    - Betania
+    - Xacobo 
+    - Esaú
+Personaxes B son os Tainted
+
+Nomes de estadísticas:
+    - 
