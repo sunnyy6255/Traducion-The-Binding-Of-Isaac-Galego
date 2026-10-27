@@ -53,8 +53,20 @@ Traducindo Playerforms: quedan Fun guy, Bookworm, Stompy. Non lles atopo traduci
 
 Quero investigar que é o ficheiro de translationsstrings e bossportraits. 
 Achievements cambiará a pestana de achievements ou será gui?
-fortunes e rules seguen funcionando aínda que non estivesen nos novos extraídos: probar a borrar todos menos un e ver que pasa.
-Personaxes traducidos: sempre referencias aos mesmos nomes en players.xml
+fortunes e rules seguen funcionando aínda que non estivesen nos novos extraídos?: probar a borrar todos menos un e ver que pasa.
+Personaxes traducidos: sempre referencias aos mesmos nomes en players.xml -> facer un índice
+
+27/10/26 
+creado o índice
+playerforms: Guppy: mantense; é o nome dun becho
+             Fun Guy: 
+             Bob: debería mantelo?
+             Bookworm: rata de biblioteca?
+             Stompy: martillo pilón? pisón?
+teño que traducir as pilulas -> gardar stats no índice
+    vida, sorte, bágoas
+    + / -, máis / menos
+
 
 ==============
 # POR TRADUCIR
@@ -65,7 +77,6 @@ Personaxes traducidos: sempre referencias aos mesmos nomes en players.xml
 - Challenges -> Quizais sexa gráfico tamén, non o sei
 - Fortunes? e Rules? non sei como funciona coa nova extracción
 - Items :thousand_yard:
-- Players -> igual que challenges
 - pocketitems
 
 - Descubrir que editar en UI, cando todo o texto esté rematado

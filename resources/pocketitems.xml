@@ -120,13 +120,13 @@
 	
 	<pilleffect announcer2="760" id="0" name="#BAD_GAS_NAME" announcer="328" class="1+" mimiccharge="1" />
 	<pilleffect announcer2="761" id="1" name="#BAD_TRIP_NAME" announcer="329" announcerdelay="60" class="2-" mimiccharge="2" />
-	<pilleffect announcer2="762" id="2" name="#BALLS_OF_STEEL_NAME" announcer="330" announcerdelay="70" class="2+" mimiccharge="12" />
-	<pilleffect announcer2="763" id="3" name="#BOMBS_ARE_KEY_NAME" announcer="332" announcerdelay="70" class="2" mimiccharge="1" />
-	<pilleffect announcer2="764" id="4" name="#EXPLOSIVE_DIARRHEA_NAME" announcer="339" announcerdelay="30" class="1" mimiccharge="3" />
+	<pilleffect announcer2="762" id="2" name="Collóns de ferro" announcer="330" announcerdelay="70" class="2+" mimiccharge="12" />
+	<pilleffect announcer2="763" id="3" name="As bombas son clave" announcer="332" announcerdelay="70" class="2" mimiccharge="1" />
+	<pilleffect announcer2="764" id="4" name="Diarrea explosiva" announcer="339" announcerdelay="30" class="1" mimiccharge="3" />
 	<pilleffect announcer2="765" id="5" name="#FULL_HEALTH_NAME" announcer="340" announcerdelay="70" class="2+" mimiccharge="12" />
 	<pilleffect announcer2="767" id="6" name="#HEALTH_DOWN_NAME" announcer="342" announcerdelay="55" class="3-" mimiccharge="4" />
 	<pilleffect announcer2="766" id="7" name="#HEALTH_UP_NAME" announcer="343" announcerdelay="70" class="3+" mimiccharge="6" />
-	<pilleffect announcer2="768" id="8" name="#I_FOUND_PILLS_NAME" description="#I_FOUND_PILLS_DESCRIPTION" announcer="345" announcerdelay="50" class="0" mimiccharge="1" />
+	<pilleffect announcer2="768" id="8" name="Atopei pílulas" description="...e tomeinas" announcer="345" announcerdelay="50" class="0" mimiccharge="1" />
 	<pilleffect announcer2="769" id="9" name="#PUBERTY_NAME" announcer="357" announcerdelay="60" class="0" mimiccharge="1" />
 	<pilleffect announcer2="770" id="10" name="#PRETTY_FLY_NAME" announcer="356" announcerdelay="45" class="2+" mimiccharge="6" />
 	<pilleffect announcer2="771" id="11" name="#RANGE_DOWN_NAME" announcer="359" announcerdelay="60" class="3-" mimiccharge="4" />
@@ -137,17 +137,17 @@
 	<pilleffect announcer2="776" id="16" name="#TEARS_UP_NAME" announcer="368" announcerdelay="70" class="3+" mimiccharge="6" />
 	<pilleffect announcer2="777" id="17" name="#LUCK_DOWN_NAME" announcer="351" announcerdelay="60" class="3-" mimiccharge="4" />
 	<pilleffect announcer2="778" id="18" name="#LUCK_UP_NAME" announcer="352" announcerdelay="70" class="3+" mimiccharge="6" />
-	<pilleffect announcer2="779" id="19" name="#TELEPILLS_NAME" greedmode="false" announcer="369" announcerdelay="60" class="1" mimiccharge="1" />
-	<pilleffect announcer2="780" id="20" name="#48_HOUR_ENERGY_NAME" announcer="324" announcerdelay="50" class="2+" mimiccharge="12" />
+	<pilleffect announcer2="779" id="19" name="Telepílulas" greedmode="false" announcer="369" announcerdelay="60" class="1" mimiccharge="1" />
+	<pilleffect announcer2="780" id="20" name="Enerxía para 48 horas" announcer="324" announcerdelay="50" class="2+" mimiccharge="12" />
 	<pilleffect announcer2="781" id="21" name="#HEMATEMESIS_NAME" announcer="344" class="2" mimiccharge="4" />
-	<pilleffect announcer2="782" id="22" name="#PARALYSIS_NAME" announcer="353" class="1-" mimiccharge="6" />
-	<pilleffect announcer2="783" id="23" name="#I_CAN_SEE_FOREVER_NAME" announcer="362" announcerdelay="60" class="2+" mimiccharge="4" />
-	<pilleffect announcer2="784" id="24" name="#PHEROMONES_NAME" announcer="355" announcerdelay="40" class="1+" mimiccharge="2" />
-	<pilleffect announcer2="785" id="25" name="#AMNESIA_NAME" greedmode="false" announcer="326" announcerdelay="70" class="2-" mimiccharge="6" />
+	<pilleffect announcer2="782" id="22" name="Parálisis" announcer="353" class="1-" mimiccharge="6" />
+	<pilleffect announcer2="783" id="23" name="Podo ver para sempre" announcer="362" announcerdelay="60" class="2+" mimiccharge="4" />
+	<pilleffect announcer2="784" id="24" name="Feromonas" announcer="355" announcerdelay="40" class="1+" mimiccharge="2" />
+	<pilleffect announcer2="785" id="25" name="Amnesia" greedmode="false" announcer="326" announcerdelay="70" class="2-" mimiccharge="6" />
 	<pilleffect announcer2="786" id="26" name="#LEMON_PARTY_NAME" announcer="350" class="1+" mimiccharge="3" />
 	<pilleffect announcer2="787" id="27" name="#R_U_A_WIZARD_NAME" announcer="358" announcerdelay="60" class="1-" mimiccharge="6" />
 	<pilleffect announcer2="788" achievement="227" id="28" name="#PERCS_NAME" announcer="406" announcerdelay="45" class="1+" mimiccharge="2" />
-	<pilleffect announcer2="789" achievement="227" id="29" name="#ADDICTED_NAME" announcer="399" announcerdelay="40" class="1-" mimiccharge="6" />
+	<pilleffect announcer2="789" achievement="227" id="29" name="Adicto" announcer="399" announcerdelay="40" class="1-" mimiccharge="6" />
 	<pilleffect announcer2="790" achievement="228" id="30" name="#RELAX_NAME" announcer="409" announcerdelay="80" class="0" mimiccharge="2" />
 	<pilleffect announcer2="791" achievement="228" id="31" name="#QUESTION_MARKS_NAME" greedmode="false" announcer="412" announcerdelay="60" class="1-" mimiccharge="6" />
 	<pilleffect announcer2="792" id="32" name="#ONE_MAKES_YOU_LARGER_NAME" announcer="405" announcerdelay="1" class="1" mimiccharge="6" />
@@ -155,7 +155,7 @@
 	<pilleffect announcer2="794" id="34" name="#INFESTED_NAME_1" announcer="402" announcerdelay="30" class="1+" mimiccharge="2" />
 	<pilleffect announcer2="795" id="35" name="#INFESTED_NAME_2" announcer="403" announcerdelay="5" class="1+" mimiccharge="2" />
 	<pilleffect announcer2="796" id="36" name="#POWER_PILL_NAME" announcer="407" announcerdelay="5" class="1+" mimiccharge="3" />
-	<pilleffect announcer2="797" id="37" name="#RETRO_VISION_NAME" announcer="410" announcerdelay="30" class="1-" mimiccharge="6" />
+	<pilleffect announcer2="797" id="37" name="Visión Retro" announcer="410" announcerdelay="30" class="1-" mimiccharge="6" />
 	<pilleffect announcer2="798" id="38" name="#FRIENDS_TILL_THE_END_NAME" announcer="452" announcerdelay="30" class="1+" mimiccharge="1" />
 	<pilleffect announcer2="799" id="39" name="#XLAX_NAME" announcer="443" announcerdelay="30" class="0-" mimiccharge="1" />
 	<pilleffect announcer2="800" id="40" name="#SOMETHINGS_WRONG_NAME" announcer="444" announcerdelay="30" class="0+" mimiccharge="1" />
