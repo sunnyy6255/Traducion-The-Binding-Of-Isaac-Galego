@@ -55,8 +55,8 @@
 	<card type="object" pickup="5" description="Axuda dende arriba" id="50" name="Número de emerxencia" announcer="401" announcerdelay="70" mimiccharge="3" />
 	<card type="special" pickup="11" achievement="293" description="Sínteste protexido" id="51" name="Carta santa" announcer="449" mimiccharge="4" />
 	<!-- Booster Pack #1 -->
-	<card type="special" pickup="8"  announcer="735" achievement="361" description="Se inmenso!" name="Crecemento xigante" id="52" mimiccharge="3" />
-	<card type="special" pickup="8"  announcer="733" achievement="362" description="Roba 3 cartas" name="Recordo antigo" id="53" mimiccharge="12" />
+	<card type="special" pickup="8"  announcer="735" achievement="361" description="Sé inmenso!" name="Crecemento xigante" id="52" mimiccharge="3" />
+	<card type="special" pickup="8"  announcer="733" achievement="362" description="Rouba 3 cartas" name="Recordo antigo" id="53" mimiccharge="12" />
 	<card type="special" pickup="8"  announcer="734" achievement="363" description="Disfruta o momento" name="Camiñar as eras" id="54" mimiccharge="3" />
 	<rune type="rune"    pickup="13" announcer="736" description="Ten un brillo tenue" id="55" name="Fragmento de runa" mimiccharge="1" />
 	
@@ -77,7 +77,7 @@
 	<card type="tarot_reverse" pickup="14" achievement="537" announcer="525" announcerdelay="0" description="Que a vida brote dos caídos" id="69" name="A Morte?" mimiccharge="4" />
 	<card type="tarot_reverse" pickup="14" achievement="538" announcer="526" announcerdelay="120" description="Que a túa fame sexa saciada" id="70" name="A Temperanza?" mimiccharge="6" />
 	<card type="tarot_reverse" pickup="14" achievement="539" announcer="527" announcerdelay="70" description="Báñate na lúz da túa compaixón" id="71" name="O Demo?" mimiccharge="4" />
-	<card type="tarot_reverse" pickup="14" achievement="540" announcer="528" announcerdelay="110" description="A Creación trae destrución" id="72" name="A Torre?" mimiccharge="4" />
+	<card type="tarot_reverse" pickup="14" achievement="540" announcer="528" announcerdelay="110" description="A creación trae destrución" id="72" name="A Torre?" mimiccharge="4" />
 	<card type="tarot_reverse" pickup="14" achievement="541" announcer="529" announcerdelay="0" description="Que a túa pérda traia boa boaventura" id="73" name="As Estrelas?" mimiccharge="12" />
 	<card type="tarot_reverse" pickup="14" achievement="542" announcer="530" announcerdelay="0" description="Que lembres recordos esquecidos" id="74" name="A Lúa?" greedmode="false" mimiccharge="2" />
 	<card type="tarot_reverse" pickup="14" achievement="542" announcer="531" announcerdelay="0" description="Que a escuridade devore todo ao teu redor" id="75" name="O Sol?" mimiccharge="6" />
@@ -124,19 +124,19 @@
 	<pilleffect announcer2="763" id="3" name="As bombas son clave" announcer="332" announcerdelay="70" class="2" mimiccharge="1" />
 	<pilleffect announcer2="764" id="4" name="Diarrea explosiva" announcer="339" announcerdelay="30" class="1" mimiccharge="3" />
 	<pilleffect announcer2="765" id="5" name="#FULL_HEALTH_NAME" announcer="340" announcerdelay="70" class="2+" mimiccharge="12" />
-	<pilleffect announcer2="767" id="6" name="#HEALTH_DOWN_NAME" announcer="342" announcerdelay="55" class="3-" mimiccharge="4" />
-	<pilleffect announcer2="766" id="7" name="#HEALTH_UP_NAME" announcer="343" announcerdelay="70" class="3+" mimiccharge="6" />
+	<pilleffect announcer2="767" id="6" name="Menos vida" announcer="342" announcerdelay="55" class="3-" mimiccharge="4" />
+	<pilleffect announcer2="766" id="7" name="Máis vida" announcer="343" announcerdelay="70" class="3+" mimiccharge="6" />
 	<pilleffect announcer2="768" id="8" name="Atopei pílulas" description="...e tomeinas" announcer="345" announcerdelay="50" class="0" mimiccharge="1" />
 	<pilleffect announcer2="769" id="9" name="#PUBERTY_NAME" announcer="357" announcerdelay="60" class="0" mimiccharge="1" />
 	<pilleffect announcer2="770" id="10" name="#PRETTY_FLY_NAME" announcer="356" announcerdelay="45" class="2+" mimiccharge="6" />
-	<pilleffect announcer2="771" id="11" name="#RANGE_DOWN_NAME" announcer="359" announcerdelay="60" class="3-" mimiccharge="4" />
-	<pilleffect announcer2="772" id="12" name="#RANGE_UP_NAME" announcer="360" announcerdelay="70" class="3+" mimiccharge="6" />
-	<pilleffect announcer2="773" id="13" name="#SPEED_DOWN_NAME" announcer="363" announcerdelay="60" class="3-" mimiccharge="4" />
-	<pilleffect announcer2="774" id="14" name="#SPEED_UP_NAME" announcer="364" announcerdelay="70" class="3+" mimiccharge="6" />
-	<pilleffect announcer2="775" id="15" name="#TEARS_DOWN_NAME" announcer="367" announcerdelay="60" class="3-" mimiccharge="4" />
-	<pilleffect announcer2="776" id="16" name="#TEARS_UP_NAME" announcer="368" announcerdelay="70" class="3+" mimiccharge="6" />
-	<pilleffect announcer2="777" id="17" name="#LUCK_DOWN_NAME" announcer="351" announcerdelay="60" class="3-" mimiccharge="4" />
-	<pilleffect announcer2="778" id="18" name="#LUCK_UP_NAME" announcer="352" announcerdelay="70" class="3+" mimiccharge="6" />
+	<pilleffect announcer2="771" id="11" name="Menos rango" announcer="359" announcerdelay="60" class="3-" mimiccharge="4" />
+	<pilleffect announcer2="772" id="12" name="Máis rango" announcer="360" announcerdelay="70" class="3+" mimiccharge="6" />
+	<pilleffect announcer2="773" id="13" name="Menos velocidade" announcer="363" announcerdelay="60" class="3-" mimiccharge="4" />
+	<pilleffect announcer2="774" id="14" name="Máis velocidade" announcer="364" announcerdelay="70" class="3+" mimiccharge="6" />
+	<pilleffect announcer2="775" id="15" name="Menos bágoas" announcer="367" announcerdelay="60" class="3-" mimiccharge="4" />
+	<pilleffect announcer2="776" id="16" name="Máis bágoas" announcer="368" announcerdelay="70" class="3+" mimiccharge="6" />
+	<pilleffect announcer2="777" id="17" name="Menos sorte" announcer="351" announcerdelay="60" class="3-" mimiccharge="4" />
+	<pilleffect announcer2="778" id="18" name="Máis sorte" announcer="352" announcerdelay="70" class="3+" mimiccharge="6" />
 	<pilleffect announcer2="779" id="19" name="Telepílulas" greedmode="false" announcer="369" announcerdelay="60" class="1" mimiccharge="1" />
 	<pilleffect announcer2="780" id="20" name="Enerxía para 48 horas" announcer="324" announcerdelay="50" class="2+" mimiccharge="12" />
 	<pilleffect announcer2="781" id="21" name="#HEMATEMESIS_NAME" announcer="344" class="2" mimiccharge="4" />
@@ -150,15 +150,15 @@
 	<pilleffect announcer2="789" achievement="227" id="29" name="Adicto" announcer="399" announcerdelay="40" class="1-" mimiccharge="6" />
 	<pilleffect announcer2="790" achievement="228" id="30" name="#RELAX_NAME" announcer="409" announcerdelay="80" class="0" mimiccharge="2" />
 	<pilleffect announcer2="791" achievement="228" id="31" name="#QUESTION_MARKS_NAME" greedmode="false" announcer="412" announcerdelay="60" class="1-" mimiccharge="6" />
-	<pilleffect announcer2="792" id="32" name="#ONE_MAKES_YOU_LARGER_NAME" announcer="405" announcerdelay="1" class="1" mimiccharge="6" />
-	<pilleffect announcer2="793" id="33" name="#ONE_MAKES_YOU_SMALL_NAME" announcer="411" announcerdelay="1" class="1" mimiccharge="6" />
+	<pilleffect announcer2="792" id="32" name="Un faiche crecer" announcer="405" announcerdelay="1" class="1" mimiccharge="6" />
+	<pilleffect announcer2="793" id="33" name="Un faiche encoller" announcer="411" announcerdelay="1" class="1" mimiccharge="6" />
 	<pilleffect announcer2="794" id="34" name="#INFESTED_NAME_1" announcer="402" announcerdelay="30" class="1+" mimiccharge="2" />
 	<pilleffect announcer2="795" id="35" name="#INFESTED_NAME_2" announcer="403" announcerdelay="5" class="1+" mimiccharge="2" />
-	<pilleffect announcer2="796" id="36" name="#POWER_PILL_NAME" announcer="407" announcerdelay="5" class="1+" mimiccharge="3" />
+	<pilleffect announcer2="796" id="36" name="Pílula de poder!" announcer="407" announcerdelay="5" class="1+" mimiccharge="3" />
 	<pilleffect announcer2="797" id="37" name="Visión Retro" announcer="410" announcerdelay="30" class="1-" mimiccharge="6" />
-	<pilleffect announcer2="798" id="38" name="#FRIENDS_TILL_THE_END_NAME" announcer="452" announcerdelay="30" class="1+" mimiccharge="1" />
+	<pilleffect announcer2="798" id="38" name="Amigos ate o fin" announcer="452" announcerdelay="30" class="1+" mimiccharge="1" />
 	<pilleffect announcer2="799" id="39" name="#XLAX_NAME" announcer="443" announcerdelay="30" class="0-" mimiccharge="1" />
-	<pilleffect announcer2="800" id="40" name="#SOMETHINGS_WRONG_NAME" announcer="444" announcerdelay="30" class="0+" mimiccharge="1" />
+	<pilleffect announcer2="800" id="40" name="Algo anda mal..." announcer="444" announcerdelay="30" class="0+" mimiccharge="1" />
 	<pilleffect announcer2="801" id="41" name="#IM_DROWSY_NAME" announcer="454" announcerdelay="30" class="1" mimiccharge="3" />
 	<pilleffect announcer2="802" id="42" name="#IM_EXCITED_NAME" announcer="453" announcerdelay="30" class="1" mimiccharge="6" />
 	<pilleffect announcer2="803" achievement="321" id="43" name="#GULP_NAME" announcer="451" announcerdelay="30" class="2+" mimiccharge="4" />
@@ -166,8 +166,8 @@
 	<pilleffect announcer2="805" achievement="324" id="45" name="#FEELS_LIKE_IM_WALKING_ON_SUNSHINE_NAME" announcer="446" announcerdelay="30" class="1+" mimiccharge="1" />
 	<pilleffect announcer2="806" achievement="330" id="46" name="#VURP_NAME" announcer="445" announcerdelay="60" class="2+" mimiccharge="6" />
 <!-- REPENTANCE BEGIN -->
-	<pilleffect id="47" announcer="737" announcer2="807" announcerdelay="55" name="#SHOT_SPEED_DOWN_NAME" class="1-" mimiccharge="4" />
-	<pilleffect id="48" announcer="738" announcer2="808" announcerdelay="70" name="#SHOT_SPEED_UP_NAME" class="1+" mimiccharge="6" />
-	<pilleffect id="49" announcer="739" announcer2="809" announcerdelay="70" name="#EXPERIMENTAL_PILL_NAME" class="3" mimiccharge="3" />
+	<pilleffect id="47" announcer="737" announcer2="807" announcerdelay="55" name="Menos velocidade de bágoa" class="1-" mimiccharge="4" />
+	<pilleffect id="48" announcer="738" announcer2="808" announcerdelay="70" name="Máis velocidade de bágoa" class="1+" mimiccharge="6" />
+	<pilleffect id="49" announcer="739" announcer2="809" announcerdelay="70" name="Pílula experimental" class="3" mimiccharge="3" />
 <!-- REPENTANCE END -->
 </pocketitems>

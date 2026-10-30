@@ -67,12 +67,19 @@ teño que traducir as pilulas -> gardar stats no índice
     vida, sorte, bágoas
     + / -, máis / menos
 
+30/10/26
+    Traducidas stats de pilulas, quedan algunhas específicas que quero atopar 
+    significado específico.
+    Vou aproveitar o tren e revisar o que fixen por erros.
+
+    Falta descrición soul of the keeper
+
 
 ==============
 # POR TRADUCIR
 ==============
 
-- Achievements
+- Achievements -> ver se é gráfico ou código
 - Boss -> Bossportraits non sei que modifica, son gráficos: están en ./resources/ui
 - Challenges -> Quizais sexa gráfico tamén, non o sei
 - Fortunes? e Rules? non sei como funciona coa nova extracción
@@ -96,18 +103,23 @@ Nomes de personaxes:
     - Azazel
     - Lázaro
     - Edén
-    - O perdido
+    - O Perdido
     - Lázaro (Lazarus2 "volto á vida")
     - Xudas escuro (Judas' shadow)
     - Lilit
-    - O tendeiro
+    - O Tendeiro
     - Apolión
-    - O esquecido
-    - A alma (Alma de Forgotten)
+    - O Esquecido
+    - A Alma (Alma de Forgotten)
     - Betania
     - Xacobo 
     - Esaú
 Personaxes B son os Tainted
 
 Nomes de estadísticas:
-    - 
+    - HP / Vida
+    - Tears / Bágoas
+    - Speed / Velocidade
+    - Shot speed / Velocidade de bágoa
+    - Luck / Sorte
+    - Range / Rango
