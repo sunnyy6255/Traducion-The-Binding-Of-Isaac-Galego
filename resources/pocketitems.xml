@@ -119,7 +119,7 @@
 	-->
 	
 	<pilleffect announcer2="760" id="0" name="#BAD_GAS_NAME" announcer="328" class="1+" mimiccharge="1" />
-	<pilleffect announcer2="761" id="1" name="#BAD_TRIP_NAME" announcer="329" announcerdelay="60" class="2-" mimiccharge="2" />
+	<pilleffect announcer2="761" id="1" name="Mala viaxe" announcer="329" announcerdelay="60" class="2-" mimiccharge="2" />
 	<pilleffect announcer2="762" id="2" name="Collóns de ferro" announcer="330" announcerdelay="70" class="2+" mimiccharge="12" />
 	<pilleffect announcer2="763" id="3" name="As bombas son clave" announcer="332" announcerdelay="70" class="2" mimiccharge="1" />
 	<pilleffect announcer2="764" id="4" name="Diarrea explosiva" announcer="339" announcerdelay="30" class="1" mimiccharge="3" />
@@ -127,7 +127,7 @@
 	<pilleffect announcer2="767" id="6" name="Menos vida" announcer="342" announcerdelay="55" class="3-" mimiccharge="4" />
 	<pilleffect announcer2="766" id="7" name="Máis vida" announcer="343" announcerdelay="70" class="3+" mimiccharge="6" />
 	<pilleffect announcer2="768" id="8" name="Atopei pílulas" description="...e tomeinas" announcer="345" announcerdelay="50" class="0" mimiccharge="1" />
-	<pilleffect announcer2="769" id="9" name="#PUBERTY_NAME" announcer="357" announcerdelay="60" class="0" mimiccharge="1" />
+	<pilleffect announcer2="769" id="9" name="Puberdade" announcer="357" announcerdelay="60" class="0" mimiccharge="1" />
 	<pilleffect announcer2="770" id="10" name="#PRETTY_FLY_NAME" announcer="356" announcerdelay="45" class="2+" mimiccharge="6" />
 	<pilleffect announcer2="771" id="11" name="Menos rango" announcer="359" announcerdelay="60" class="3-" mimiccharge="4" />
 	<pilleffect announcer2="772" id="12" name="Máis rango" announcer="360" announcerdelay="70" class="3+" mimiccharge="6" />

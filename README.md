@@ -72,7 +72,26 @@ teño que traducir as pilulas -> gardar stats no índice
     significado específico.
     Vou aproveitar o tren e revisar o que fixen por erros.
 
-    Falta descrición soul of the keeper
+    Falta descrición soul of the keeper -> $$$ non ten traducción parvo do carallo
+
+9/11/26
+    Fun Guy: 
+    Bob: debería mantelo?
+    Bookworm: rata de biblioteca?
+    Stompy: martillo pilón? pisón?
+    Traducir pílulas:
+        Pretty Fly -> canción de offspring, bastante "fly" pra ser branco "mosca guay???"
+        Hematemesis -> enfermidade de cuspir sangre
+        Lemon party -> 
+        ru a wizard -> wizard = persoa con down?? rarita despectivo
+        percs -> percocets
+        relax -> re-laxante 
+        infested -> infestado 1 ! 2 ?
+        xlax -> laxante outra vez
+        drowsy -> high from marihuana use
+        excited -> ansioso?
+        ==onomatopeias igual==
+        feels like im walking on sunshine -> outra canción 
 
 
 ==============
